@@ -15,3 +15,6 @@ then again do step 1.
 1.add- add file into a staging/queue 
 2.commite- save the changes to the local repo-clone and also gives a chance to add version
 3.push- finaly it pushes the local repo-clone file to the real git repo account 
+
+error
+
